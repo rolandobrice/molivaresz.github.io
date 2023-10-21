@@ -1,0 +1,67 @@
+body {
+    font-family: 'Roboto light', sans-serif;
+}
+
+.bg-nav-form {
+    background-color:steelblue;
+}
+
+#bg-header {
+    background-image: url("../img/bg-header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    background-size: 100% 100%;
+  }
+
+.img-size {
+    width: 15em;
+    height:20em;
+}
+
+a:link {
+    color:white;
+}
+
+a:active {
+    color: white;
+}
+
+.nav-item a:hover {
+    color:snow;
+}
+
+.nav-item a:visited {
+    color:whitesmoke;
+}
+
+.nav-item a:disabled {
+    color:gray;
+}
+
+.card-title {
+    font-size: 1.2em;
+}
+
+.card-text {
+    font-size: 1em;
+}
+
+.fecha-nodestacada {
+    font-size: 1em;
+}
+
+.fecha-destacada {
+    font-family: 'Roboto medium', sans-serif;
+    font-size: 1.3em;
+    color:brown;
+}
+
+.txt_encab {
+    font-family: 'Roboto medium', sans-serif;
+    font-size: 1.2em;    
+}
+
+footer {
+    font-size: 1em;
+}
